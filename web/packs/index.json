@@ -1,6 +1,7 @@
 {
   "packs": [
-    "Jimoji2022.json"
+    "Jimoji2022.json",
+    "Jimoji2022Emoji.json"
   ],
   "homeserver_url": "https://matrix.otato.es"
 }
